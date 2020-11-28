@@ -1,0 +1,790 @@
+ENTRY 2
+Name: data/stgenm/stg6enm.png
+Format: 5
+Width: 512
+Height: 512
+Unknown1: 10
+HasData: 1
+THTX-Size: 524288
+THTX-Format: 5
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 32*32+0+0
+Sprite: 1 32*32+32+0
+Sprite: 2 32*32+64+0
+Sprite: 3 32*32+96+0
+Sprite: 4 32*32+128+0
+Sprite: 5 32*32+160+0
+Sprite: 6 32*32+192+0
+Sprite: 7 32*32+224+0
+Sprite: 8 32*32+0+32
+Sprite: 9 32*32+32+32
+Sprite: 10 32*32+64+32
+Sprite: 11 32*32+96+32
+Sprite: 12 32*32+128+32
+Sprite: 13 32*32+160+32
+Sprite: 14 32*32+192+32
+Sprite: 15 32*32+224+32
+Sprite: 16 32*32+256+0
+Sprite: 17 32*32+288+0
+Sprite: 18 32*32+320+0
+Sprite: 19 32*32+352+0
+Sprite: 20 32*32+384+0
+Sprite: 21 32*32+416+0
+Sprite: 22 32*32+448+0
+Sprite: 23 32*32+480+0
+Sprite: 24 32*32+256+48
+Sprite: 25 32*32+128+96
+Sprite: 26 32*32+0+128
+Sprite: 27 32*32+32+128
+Sprite: 28 32*32+64+128
+Sprite: 29 32*32+96+128
+Sprite: 30 32*32+128+128
+Sprite: 31 32*32+160+128
+Sprite: 32 32*32+192+128
+Sprite: 33 32*32+224+128
+Sprite: 34 32*32+0+160
+Sprite: 35 32*32+32+160
+Sprite: 36 32*32+64+160
+Sprite: 37 32*32+96+160
+Sprite: 38 32*32+128+160
+Sprite: 39 32*32+160+160
+Sprite: 40 32*32+192+160
+Sprite: 41 32*32+224+160
+Sprite: 42 48*16+256+32
+Sprite: 43 30*32+1+160
+Sprite: 44 30*32+33+160
+Sprite: 45 30*32+65+160
+Sprite: 46 30*32+97+160
+Sprite: 47 30*32+129+160
+Sprite: 48 30*32+161+160
+Sprite: 49 30*32+193+160
+Sprite: 50 30*32+225+160
+Sprite: 51 30*32+129+160
+Sprite: 52 30*32+161+160
+Sprite: 53 30*32+193+160
+Sprite: 54 30*32+225+160
+Sprite: 55 64*64+0+192
+Sprite: 56 48*64+256+96
+Sprite: 57 48*64+304+96
+Sprite: 58 48*64+352+96
+Sprite: 59 48*64+400+96
+Sprite: 60 48*64+256+160
+Sprite: 61 48*64+304+160
+Sprite: 62 48*64+352+160
+Sprite: 63 48*64+400+160
+Sprite: 64 48*64+256+224
+Sprite: 65 48*64+304+224
+Sprite: 66 48*64+352+224
+Sprite: 67 48*64+400+224
+Sprite: 68 48*80+256+288
+Sprite: 69 48*80+304+288
+Sprite: 70 48*80+352+288
+Sprite: 71 48*80+400+288
+Sprite: 72 72*80+256+368
+Sprite: 73 72*80+328+368
+Sprite: 74 72*80+400+368
+Sprite: 75 48*64+0+256
+Sprite: 76 48*64+48+256
+Sprite: 77 48*64+96+256
+Sprite: 78 256*16+0+240
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 4 0 3 1
+Instruction: 8 0 3 2
+Instruction: 12 0 3 3
+Instruction: 16 0 4 0 0
+
+Script: 1
+Instruction: 0 0 3 7
+Instruction: 8 0 3 6
+Instruction: 16 0 3 5
+Instruction: 24 0 3 4
+Instruction: 24 0 2
+
+Script: 2
+Instruction: 0 0 10
+Instruction: 0 0 3 7
+Instruction: 8 0 3 6
+Instruction: 16 0 3 5
+Instruction: 24 0 3 4
+Instruction: 24 0 2
+
+Script: 3
+Instruction: 0 0 3 4
+Instruction: 8 0 3 5
+Instruction: 16 0 3 6
+Instruction: 24 0 3 7
+Instruction: 24 0 3 0
+Instruction: 28 0 3 1
+Instruction: 32 0 3 2
+Instruction: 36 0 3 3
+Instruction: 40 0 4 48 24
+
+Script: 4
+Instruction: 0 0 10
+Instruction: 0 0 3 4
+Instruction: 8 0 3 5
+Instruction: 16 0 3 6
+Instruction: 24 0 3 7
+Instruction: 24 0 3 0
+Instruction: 28 0 3 1
+Instruction: 32 0 3 2
+Instruction: 36 0 3 3
+Instruction: 40 0 4 56 24
+
+Script: 5
+Instruction: 0 0 3 8
+Instruction: 4 0 3 9
+Instruction: 8 0 3 10
+Instruction: 12 0 3 11
+Instruction: 16 0 4 0 0
+
+Script: 6
+Instruction: 0 0 3 15
+Instruction: 8 0 3 14
+Instruction: 16 0 3 13
+Instruction: 24 0 3 12
+Instruction: 24 0 2
+
+Script: 7
+Instruction: 0 0 10
+Instruction: 0 0 3 15
+Instruction: 8 0 3 14
+Instruction: 16 0 3 13
+Instruction: 24 0 3 12
+Instruction: 24 0 2
+
+Script: 8
+Instruction: 0 0 3 12
+Instruction: 8 0 3 13
+Instruction: 16 0 3 14
+Instruction: 24 0 3 15
+Instruction: 24 0 3 8
+Instruction: 28 0 3 9
+Instruction: 32 0 3 10
+Instruction: 36 0 3 11
+Instruction: 40 0 4 48 24
+
+Script: 9
+Instruction: 0 0 10
+Instruction: 0 0 3 12
+Instruction: 8 0 3 13
+Instruction: 16 0 3 14
+Instruction: 24 0 3 15
+Instruction: 24 0 3 8
+Instruction: 28 0 3 9
+Instruction: 32 0 3 10
+Instruction: 36 0 3 11
+Instruction: 40 0 4 56 24
+
+Script: 10
+Instruction: 0 0 13 0.0f 0.0f 0.19634955f
+Instruction: 0 0 3 16
+Instruction: 30000 0 2
+
+Script: 11
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 1 60 10004.0f 6.2831855f
+Instruction: 0 3 52 10004.0f 10004.0f 3.1415927f
+Instruction: 0 4 12 0.0f 0.0f 10004.0f
+Instruction: 0 1 60 10004.0f 1.0f
+Instruction: 0 3 50 10004.0f 10004.0f 1.0f
+Instruction: 0 3 7 10004.0f 10004.0f
+Instruction: 60 0 20
+Instruction: 60 0 21 1
+Instruction: 60 0 34 40 0 0
+Instruction: 60 0 1
+
+Script: 12
+Instruction: 0 0 25 1
+Instruction: 0 0 7 1.0f 2.0f
+Instruction: 0 0 3 42
+Instruction: 0 0 30 1
+Instruction: 0 0 20
+Instruction: 0 0 21 1
+Instruction: 0 0 34 40 0 0
+Instruction: 40 0 1
+
+Script: 13
+Instruction: 0 0 3 24
+Instruction: 0 0 16 1
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 0 33 180 255 35980
+Instruction: 0 0 20
+Instruction: 1 0 21 2
+Instruction: 1 0 33 180 255 35980
+Instruction: 1 0 8 255
+Instruction: 181 0 20
+Instruction: 182 0 21 1
+Instruction: 182 0 34 30 0 0
+Instruction: 182 0 36 30 0 3.0f 3.0f
+Instruction: 212 0 1
+
+Script: 14
+Instruction: 0 0 3 0
+Instruction: 0 1 52 10004.0f 0.97114503f 0.2617994f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 8
+Instruction: 30004 0 3 9
+Instruction: 30008 0 3 10
+Instruction: 30012 0 3 11
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 15
+Instruction: 0 0 3 8
+Instruction: 0 1 52 10004.0f 0.24282233f 0.2617994f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 0
+Instruction: 30004 0 3 1
+Instruction: 30008 0 3 2
+Instruction: 30012 0 3 3
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 16
+Instruction: 0 0 3 0
+Instruction: 0 1 50 10004.0f 0.72034436f 0.09817477f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 0
+Instruction: 30004 0 3 1
+Instruction: 30008 0 3 2
+Instruction: 30012 0 3 3
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 17
+Instruction: 0 0 3 8
+Instruction: 0 1 50 10004.0f 0.82422495f 0.09817477f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 8
+Instruction: 30004 0 3 9
+Instruction: 30008 0 3 10
+Instruction: 30012 0 3 11
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 18
+Instruction: 0 0 3 26
+Instruction: 0 1 50 10004.0f 0.15962054f 0.09817477f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 26
+Instruction: 30004 0 3 27
+Instruction: 30008 0 3 28
+Instruction: 30012 0 3 29
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 19
+Instruction: 0 0 3 34
+Instruction: 0 1 50 10004.0f 0.30601794f 0.09817477f
+Instruction: 0 4 13 0.0f 0.0f 10004.0f
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+Instruction: 30000 0 21 1
+Instruction: 30000 0 13 0.0f 0.0f 0.0f
+Instruction: 30000 0 3 34
+Instruction: 30004 0 3 35
+Instruction: 30008 0 3 36
+Instruction: 30012 0 3 37
+Instruction: 30016 0 4 108 30000
+Instruction: 30016 0 21 2
+Instruction: 30016 0 34 40 0 0
+Instruction: 30056 0 1
+
+Script: 20
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 0 7 0.0f 5.0f
+Instruction: 0 0 36 30 0 1.0f 1.0f
+Instruction: 60 0 21 1
+Instruction: 60 0 3 0
+Instruction: 64 0 3 1
+Instruction: 68 0 3 2
+Instruction: 72 0 3 3
+Instruction: 76 0 4 96 60
+Instruction: 76 0 21 2
+Instruction: 76 0 34 40 0 0
+Instruction: 116 0 1
+
+Script: 21
+Instruction: 0 0 3 8
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 0 7 0.0f 5.0f
+Instruction: 0 0 36 30 0 1.0f 1.0f
+Instruction: 60 0 21 1
+Instruction: 60 0 3 8
+Instruction: 64 0 3 9
+Instruction: 68 0 3 10
+Instruction: 72 0 3 11
+Instruction: 76 0 4 96 60
+Instruction: 76 0 21 2
+Instruction: 76 0 34 40 0 0
+Instruction: 116 0 1
+
+Script: 22
+Instruction: 0 0 3 26
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 0 7 0.0f 5.0f
+Instruction: 0 0 36 30 0 1.0f 1.0f
+Instruction: 60 0 21 1
+Instruction: 60 0 3 26
+Instruction: 64 0 3 27
+Instruction: 68 0 3 28
+Instruction: 72 0 3 29
+Instruction: 76 0 4 96 60
+Instruction: 76 0 21 2
+Instruction: 76 0 34 40 0 0
+Instruction: 116 0 1
+
+Script: 23
+Instruction: 0 0 3 34
+Instruction: 0 0 8 0
+Instruction: 0 0 34 60 0 255
+Instruction: 0 0 7 0.0f 5.0f
+Instruction: 0 0 36 30 0 1.0f 1.0f
+Instruction: 60 0 21 1
+Instruction: 60 0 3 34
+Instruction: 64 0 3 35
+Instruction: 68 0 3 36
+Instruction: 72 0 3 37
+Instruction: 76 0 4 96 60
+Instruction: 76 0 21 2
+Instruction: 76 0 34 40 0 0
+Instruction: 116 0 1
+
+Script: 24
+Instruction: 0 0 13 0.0f 0.0f 0.19634955f
+Instruction: 0 0 3 25
+Instruction: 30000 0 2
+
+Script: 25
+Instruction: 0 0 13 0.0f 0.0f -0.19634955f
+Instruction: 0 0 3 25
+Instruction: 30000 0 2
+
+Script: 26
+Instruction: 0 0 3 43
+Instruction: 3 0 3 44
+Instruction: 6 0 3 45
+Instruction: 9 0 3 46
+Instruction: 12 0 4 0 0
+
+Script: 27
+Instruction: 0 0 3 47
+Instruction: 3 0 3 48
+Instruction: 6 0 3 49
+Instruction: 9 0 3 50
+Instruction: 12 0 4 0 0
+
+Script: 28
+Instruction: 0 0 3 51
+Instruction: 3 0 3 52
+Instruction: 6 0 3 53
+Instruction: 9 0 3 54
+Instruction: 12 0 4 0 0
+
+Script: 29
+Instruction: 0 0 3 55
+Instruction: 0 0 7 0.1f 6.0f
+Instruction: 0 0 8 64
+Instruction: 0 0 36 16 4 1.0f 1.0f
+Instruction: 0 0 34 16 0 255
+Instruction: 16 0 20
+Instruction: 16 0 21 1
+Instruction: 16 0 36 16 4 0.1f 6.0f
+Instruction: 16 0 34 16 0 64
+Instruction: 32 0 1
+
+Script: 30
+Instruction: 0 0 25 1
+Instruction: 0 0 7 1.0f 2.0f
+Instruction: 0 0 16 1
+Instruction: 0 0 3 42
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 34 30 0 255
+Instruction: 30 0 20
+Instruction: 30 0 21 1
+Instruction: 30 0 34 40 0 0
+Instruction: 70 0 1
+
+Script: 31
+Instruction: 0 0 25 1
+Instruction: 0 0 7 1.0f 2.0f
+Instruction: 0 0 16 1
+Instruction: 0 0 3 42
+Instruction: 0 0 9 16747775
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 34 30 0 140
+Instruction: 30 0 20
+Instruction: 30 0 21 1
+Instruction: 30 0 34 40 0 0
+Instruction: 70 0 1
+
+Script: 128
+Instruction: 0 0 24 1
+Instruction: 0 0 32 64 4 0.0f 8.0f 0
+Instruction: 0 1 55 10008 64 32
+Instruction: 0 0 3 56
+Instruction: 8 0 3 57
+Instruction: 16 0 3 58
+Instruction: 24 0 3 59
+Instruction: 32 1 5 10008 60 0
+Instruction: 32 0 32 64 4 0.0f -8.0f 0
+Instruction: 32 1 55 10008 64 32
+Instruction: 32 0 3 56
+Instruction: 40 0 3 57
+Instruction: 48 0 3 58
+Instruction: 56 0 3 59
+Instruction: 64 1 5 10008 176 32
+Instruction: 64 0 4 12 0
+
+Script: 129
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 60
+Instruction: 3 0 3 61
+Instruction: 6 0 3 62
+Instruction: 9 0 3 63
+Instruction: 9 0 0
+Instruction: 30009 0 4 80 9
+
+Script: 130
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 64
+Instruction: 3 0 3 65
+Instruction: 6 0 3 66
+Instruction: 9 0 3 67
+Instruction: 9 0 0
+Instruction: 30009 0 4 80 9
+
+Script: 131
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 63
+Instruction: 3 0 3 62
+Instruction: 6 0 3 61
+Instruction: 9 0 3 60
+Instruction: 9 0 32 64 4 0.0f 8.0f 0
+Instruction: 9 1 55 10008 64 32
+Instruction: 9 0 3 56
+Instruction: 17 0 3 57
+Instruction: 25 0 3 58
+Instruction: 33 0 3 59
+Instruction: 41 1 5 10008 128 9
+Instruction: 41 0 32 64 4 0.0f -8.0f 0
+Instruction: 41 1 55 10008 64 32
+Instruction: 41 0 3 56
+Instruction: 49 0 3 57
+Instruction: 57 0 3 58
+Instruction: 65 0 3 59
+Instruction: 73 1 5 10008 244 41
+Instruction: 73 0 4 80 9
+
+Script: 132
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 67
+Instruction: 3 0 3 66
+Instruction: 6 0 3 65
+Instruction: 9 0 3 64
+Instruction: 9 0 32 64 4 0.0f 8.0f 0
+Instruction: 9 1 55 10008 64 32
+Instruction: 9 0 3 56
+Instruction: 17 0 3 57
+Instruction: 25 0 3 58
+Instruction: 33 0 3 59
+Instruction: 41 1 5 10008 128 9
+Instruction: 41 0 32 64 4 0.0f -8.0f 0
+Instruction: 41 1 55 10008 64 32
+Instruction: 41 0 3 56
+Instruction: 49 0 3 57
+Instruction: 57 0 3 58
+Instruction: 65 0 3 59
+Instruction: 73 1 5 10008 244 41
+Instruction: 73 0 4 80 9
+
+Script: 133
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f -16.0f 0.0f
+Instruction: 0 0 3 68
+Instruction: 4 0 3 69
+Instruction: 8 0 3 70
+Instruction: 12 0 3 71
+Instruction: 12 0 0
+Instruction: 30012 0 4 80 12
+
+Script: 134
+Instruction: 0 0 24 1
+Instruction: 0 0 6 24.0f -16.0f 0.0f
+Instruction: 0 0 3 72
+Instruction: 4 0 3 73
+Instruction: 8 0 3 74
+Instruction: 8 0 0
+Instruction: 30008 0 4 68 8
+
+Script: 135
+Instruction: 0 0 24 1
+Instruction: 0 0 10
+Instruction: 0 0 6 0.0f -16.0f 0.0f
+Instruction: 0 0 3 68
+Instruction: 4 0 3 69
+Instruction: 8 0 3 70
+Instruction: 12 0 3 71
+Instruction: 12 0 0
+Instruction: 30012 0 4 88 12
+
+Script: 136
+Instruction: 0 0 24 1
+Instruction: 0 0 10
+Instruction: 0 0 6 -24.0f -16.0f 0.0f
+Instruction: 0 0 3 72
+Instruction: 4 0 3 73
+Instruction: 8 0 3 74
+Instruction: 8 0 0
+Instruction: 30008 0 4 76 8
+
+Script: 137
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f -16.0f 0.0f
+Instruction: 0 0 3 68
+Instruction: 0 0 0
+Instruction: 30000 0 4 44 0
+
+Script: 138
+Instruction: 0 0 24 1
+Instruction: 0 0 6 24.0f -16.0f 0.0f
+Instruction: 0 0 3 72
+Instruction: 0 0 0
+Instruction: 30000 0 4 44 0
+
+Script: 139
+Instruction: 0 0 24 1
+Instruction: 0 0 10
+Instruction: 0 0 6 0.0f -16.0f 0.0f
+Instruction: 0 0 3 68
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+
+Script: 140
+Instruction: 0 0 24 1
+Instruction: 0 0 10
+Instruction: 0 0 6 -24.0f -16.0f 0.0f
+Instruction: 0 0 3 72
+Instruction: 0 0 0
+Instruction: 30000 0 4 52 0
+
+Script: 141
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 75
+Instruction: 3 0 3 76
+Instruction: 6 0 3 77
+Instruction: 6 0 0
+Instruction: 30006 0 4 68 6
+
+Script: 142
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 10
+Instruction: 0 0 3 75
+Instruction: 3 0 3 76
+Instruction: 6 0 3 77
+Instruction: 6 0 0
+Instruction: 30006 0 4 76 6
+
+Script: 143
+Instruction: 0 0 3 78
+Instruction: 0 0 8 0
+Instruction: 0 0 7 1.5f 0.0f
+Instruction: 0 0 34 8 0 255
+Instruction: 0 0 36 8 0 1.5f 1.0f
+Instruction: 40 0 36 16 0 1.75f 0.0f
+Instruction: 56 0 1
+
+Script: 144
+Instruction: 0 0 3 78
+Instruction: 0 0 8 0
+Instruction: 0 0 7 1.5625f 8.0f
+Instruction: 0 0 12 0.0f 0.0f 1.5707964f
+Instruction: 0 0 34 30 0 255
+Instruction: 0 0 36 30 0 1.5f 3.0f
+Instruction: 160 0 36 16 0 1.5f 0.0f
+Instruction: 176 0 1
+
+Script: 145
+Instruction: 0 0 3 78
+Instruction: 0 0 8 0
+Instruction: 0 0 7 1.5625f 8.0f
+Instruction: 0 0 34 30 0 255
+Instruction: 0 0 36 30 0 1.5f 3.0f
+Instruction: 30000 0 1
+
+Script: 146
+Instruction: 0 0 3 78
+Instruction: 0 0 8 0
+Instruction: 0 0 7 1.0f 0.0f
+Instruction: 0 0 34 8 0 255
+Instruction: 0 0 36 8 0 1.0f 1.0f
+Instruction: 40 0 36 16 0 1.2f 0.0f
+Instruction: 56 0 1
+
+
+ENTRY 2
+Name: data/stgenm/stg6enm2.png
+Format: 1
+Width: 512
+Height: 512
+Unknown1: 10
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 48*80+0+0
+Sprite: 1 48*80+48+0
+Sprite: 2 48*80+96+0
+Sprite: 3 48*96+144+0
+Sprite: 4 48*80+0+80
+Sprite: 5 48*80+48+80
+Sprite: 6 48*80+96+80
+Sprite: 7 512*256+0+256
+Sprite: 8 208*48+0+160
+
+Script: 0
+Instruction: 0 0 24 1
+Instruction: 0 0 3 0
+Instruction: 0 0 32 128 4 0.0f 8.0f 0
+Instruction: 128 0 32 128 4 0.0f -8.0f 0
+Instruction: 256 0 4 24 0
+
+Script: 1
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 4
+Instruction: 3 0 3 5
+Instruction: 6 0 3 6
+Instruction: 6 0 0
+Instruction: 30006 0 4 68 6
+
+Script: 2
+Instruction: 0 0 10
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 4
+Instruction: 3 0 3 5
+Instruction: 6 0 3 6
+Instruction: 6 0 0
+Instruction: 30006 0 4 76 6
+
+Script: 3
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 6
+Instruction: 3 0 3 5
+Instruction: 6 0 3 4
+Instruction: 9 0 3 0
+Instruction: 9 0 32 128 4 0.0f 8.0f 0
+Instruction: 137 0 32 128 4 0.0f -8.0f 0
+Instruction: 265 0 4 80 9
+
+Script: 4
+Instruction: 0 0 10
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 6
+Instruction: 3 0 3 5
+Instruction: 6 0 3 4
+Instruction: 9 0 3 0
+Instruction: 9 0 32 128 4 0.0f 8.0f 0
+Instruction: 137 0 32 128 4 0.0f -8.0f 0
+Instruction: 265 0 4 88 9
+
+Script: 5
+Instruction: 0 0 24 1
+Instruction: 0 0 6 0.0f 0.0f 0.0f
+Instruction: 0 0 3 0
+Instruction: 3 0 3 1
+Instruction: 6 0 3 2
+Instruction: 6 0 0
+Instruction: 30006 0 4 68 6
+
+Script: 6
+Instruction: 0 0 24 1
+Instruction: 0 0 3 7
+Instruction: 0 0 7 0.0f 0.0f
+Instruction: 0 0 32 128 4 0.0f 8.0f 0
+Instruction: 0 0 36 30 4 1.0f 0.2f
+Instruction: 30 0 36 30 4 1.0f 1.0f
+Instruction: 128 0 0
+Instruction: 128 0 32 128 4 0.0f -8.0f 0
+Instruction: 256 0 32 128 4 0.0f 8.0f 0
+Instruction: 384 0 4 124 128
+
+Script: 7
+Instruction: 0 0 24 1
+Instruction: 0 0 3 3
+Instruction: 0 0 8 0
+Instruction: 0 0 34 120 0 128
+Instruction: 128 0 32 128 4 0.0f 8.0f 0
+Instruction: 256 0 32 128 4 0.0f -8.0f 0
+Instruction: 256 0 34 120 0 64
+Instruction: 384 0 32 128 4 0.0f 8.0f 0
+Instruction: 512 0 32 128 4 0.0f -8.0f 0
+Instruction: 640 0 4 36 0
+
+Script: 8
+Instruction: 0 0 3 8
+Instruction: 0 0 24 1
+Instruction: 0 0 6 208.0f 224.0f 0.0f
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 60
+Instruction: 0 0 32 180 0 176.0f 224.0f 0
+Instruction: 350 0 15 0 60
+Instruction: 410 0 1
+
+

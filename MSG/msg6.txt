@@ -1,0 +1,971 @@
+entry 0
+@0
+	1;0;0
+	2;0;8
+	5;0;1
+@60
+	3;0;0;Yuyuko! Show Yourself
+	4;300
+@61
+	3;0;0;You need to Stop Now
+	4;360
+@62
+	5;0;4
+	3;1;0;Youmu?
+	4;360
+@63
+	5;0;4
+	3;1;0;How did you Get Past Satori
+	4;360
+@64
+	5;0;3
+	3;0;0;Lets just Say, I Knew What was Comming
+	4;360
+	6
+@194
+	1;1;0
+	2;1;2
+	5;1;1
+	5;0;4
+	3;1;0;You Should've Stayed Out of This
+	4;300
+	5;0;4
+	5;1;3
+@195
+	3;1;0;I knew you Would Try to Stop me
+	2;1;2
+	8;1;0;Ghost girl of the pavilion of 
+	8;1;1;twilight - Yuyuko Saigyouji  
+	4;300
+	5;0;3
+	5;1;4
+@196
+	3;0;0;Yuyuko the Tree May be Nice
+@197
+	3;0;1;But We Still Don't Know What Will Happen
+	2;0;9
+	4;300
+	5;0;4
+	5;1;3
+@198
+	3;1;0;Just let me Youmu
+	2;1;3
+	4;300
+	5;0;4
+	5;1;3
+@199
+	3;1;0;I want to Know What Will happen
+	3;1;1;It Could Be Wonderful
+	2;1;4
+	4;300
+	5;0;3
+	5;1;4
+@200
+	3;0;0;But it Could be Nasty
+@201
+	3;0;1;We Should just stop
+	2;0;0
+	4;300
+@202
+	5;0;4
+	5;1;3
+	3;1;0;I Won't Stop
+	2;1;2
+	4;300
+@203
+	5;0;3
+	5;1;4
+	3;0;0;We Could Ask Yukari
+	2;0;8
+	4;300
+@204
+	5;0;4
+	5;1;3
+	3;1;0;Why Would She Know
+	2;1;2
+	4;300
+@205
+	5;0;3
+	5;1;4
+	3;0;0;Becuase She's Older than You
+	3;0;1;She Knows more than You
+	2;0;1
+	4;300
+@206
+	5;0;4
+	5;1;3
+	3;1;0;Yes yes, ok
+	2;1;3
+	4;300
+@207
+	5;0;3
+	5;1;4
+	3;0;0;So You Will Stop?
+	3;0;1;
+	2;0;0
+	4;300
+@208
+	5;0;3
+	5;1;4
+	3;0;0;It Would be Nice for everybody else
+	3;0;1;Its a Blizzard in Gensokyo
+	2;0;1
+	4;300
+@209
+	5;0;4
+	5;1;3
+	3;1;0;No, I want the Satisfication
+	2;1;2
+	4;300
+@210
+	5;0;4
+	5;1;3
+	3;1;0;Little longer and the Saigyou Ayakashi
+	3;1;1;will be in full bloom...
+	2;1;2
+	4;300
+@211
+	5;0;3
+	5;1;4
+	3;0;0;Yuyuko-sama Please Just Stop
+	2;0;8
+	4;300
+@212
+	5;0;4
+	5;1;3
+	3;1;0;Youmu, it Could solve Both of Our Problems
+	2;1;4
+	4;300
+@213
+	5;0;4
+	5;1;3
+	3;1;0;Think, We Could Have a Garden
+	3;1;1;If We Break the seal on its blossom.
+	2;1;4
+	4;300
+@214
+	5;0;3
+	5;1;4
+	3;0;0;But What if it Destroys Both of Us
+	3;0;1;
+	2;0;3
+	4;300
+@215
+	5;0;3
+	5;1;4
+	3;0;0;It's probably better not to mess with it,
+	3;0;1;right?
+	2;0;3
+	4;300
+@216
+	5;0;3
+	5;1;4
+	3;0;0;It Has Clearly Been sealed and Nobody
+	3;0;1;Had tried to unseal it
+	2;0;0
+	4;300
+@217
+	5;0;4
+	5;1;3
+	3;1;0;How can you say that after breaching
+	3;1;1;trying to fight me
+	2;1;3
+	4;300
+@218
+	5;0;3
+	5;1;4
+	3;0;0;I Didn't want to Engage
+	3;0;1;In Battle
+	2;0;0
+	4;300
+@219
+	5;0;4
+	5;1;3
+	3;1;0;Thats What You're Implying
+	2;1;2
+	4;300
+@220
+	5;0;3
+	5;1;4
+	3;0;0;Since When
+	2;0;8
+	4;300
+@221
+	5;0;4
+	5;1;3
+	3;1;0;Since You Broke in and Fought Satori
+	3;1;1;You're Obviously Going to want to Fight
+	2;1;3
+	4;300
+@222
+	5;0;3
+	5;1;4
+	3;0;0;Maybe
+	3;0;1;
+	2;0;9
+	4;300
+@223
+	5;0;4
+	5;1;3
+	3;1;0;Well Youmu
+	3;1;1;Fighting is No Solution
+	2;1;4
+	4;300
+@224
+	5;0;3
+	5;1;4
+	3;0;0;Have You Ever Revived Someone?
+	3;0;1;Do You know anything about bringing life?
+	2;0;8
+	2;1;3
+	4;300
+@225
+	5;0;3
+	5;1;4
+	3;0;0;What if you revive something really nasty?
+	2;0;1
+	4;300
+@226
+	5;0;4
+	5;1;3
+	3;1;0;We can't know before we try Youmu
+	2;1;2
+	4;300
+@227
+	5;0;4
+	5;1;3
+	3;1;0;And by the way, Youmu
+	2;1;4
+	4;300
+@228
+	5;0;4
+	5;1;3
+	3;1;0;Your Human Half Could just be Sacraficed to
+	3;1;1;The Tree
+	2;1;4
+	4;300
+@229
+	5;0;4
+	5;1;3
+	3;1;0;Maybe that Would Make it Bloom
+	3;1;1;
+	2;0;0
+	2;1;2
+	4;300
+@230
+	5;0;3
+	5;1;4
+	3;0;0;YUYUKO! Never In a Million
+	3;0;1;Years Would you Do That
+	2;0;1
+	4;300
+@231
+	5;0;4
+	5;1;3
+	3;1;0;Then We Fight
+	3;1;1;
+	2;1;4
+	4;300
+@232
+	5;0;4
+	5;1;3
+	3;1;0;Then I Will See the Bloom
+	3;1;1;After my Victory
+	2;1;2
+	4;300
+@233
+	5;0;3
+	5;1;4
+	3;0;0;Alright, enough chitchat.
+	2;0;3
+	4;300
+@234
+	5;0;3
+	5;1;4
+	3;0;0;I will now take back Gensokyo's spring.
+	2;0;0
+	4;300
+@235
+	5;0;4
+	5;1;3
+	3;1;0;Fighting is the Solution Now
+	2;1;3
+	7;1
+	4;300
+@236
+	5;0;3
+	5;1;4
+	3;0;0;Yuyuko-sama I Challenge you
+	3;0;1;If You Win it Blooms
+	2;0;0
+	4;300
+@237
+	5;0;4
+	5;1;3
+	3;1;0;If You Win Youmu then I Won't let it Bloom
+	2;1;4
+	4;300
+@238
+	5;0;3
+	5;1;3
+	3;0;0;Fight to Stop The Bloom
+	3;1;1;Fight to Bring the Bloom
+	2;0;1
+	2;1;2
+	4;400
+	5;0;5
+	5;1;5
+	13;0
+@268
+	0
+	13;1
+@0
+	0
+entry 10
+@0
+	1;0;0
+	2;0;8
+	5;0;1
+@60
+	3;0;0;Everywhere I go,
+	4;300
+@61
+	3;0;0;everything is in full bloom.
+	4;360
+@62
+	5;0;4
+	3;1;0;Not yet.
+	4;360
+@63
+	5;0;4
+	3;1;0;It shall happen soon.
+	4;360
+@64
+	5;0;3
+	3;0;0;!
+	4;360
+	6
+@194
+	1;1;0
+	2;1;2
+	5;1;1
+	5;0;4
+	3;1;0;With just a little more spring...
+	4;300
+	5;0;4
+	5;1;3
+@195
+	3;1;0;Even the Saigyou Ayakashi will be in
+@196
+	3;1;1;perfect bloom.
+	2;1;2
+	8;1;0;Ghost girl of the pavilion of 
+	8;1;1;twilight - Yuyuko Saigyouji  
+	4;300
+	5;0;3
+	5;1;4
+@197
+	3;0;0;I got it right here.
+@198
+	3;0;1;That last drop of spring.
+	2;0;0
+	4;300
+	5;0;4
+	5;1;3
+@199
+	3;1;0;Ah! Would you like to take Youmu's place,
+	3;1;1;then?
+	2;1;3
+	4;300
+	5;0;3
+	5;1;4
+@200
+	3;0;0;Nah, I wouldn't want to live out the rest
+@201
+	3;0;1;of my life in a place like this.
+	2;0;1
+	4;300
+@202
+	5;0;4
+	5;1;3
+	3;1;0;How about just a temporary position?
+	2;1;2
+	4;300
+@203
+	5;0;3
+	5;1;4
+	3;0;0;Are you listening to me?
+	2;0;8
+	4;300
+@204
+	5;0;4
+	5;1;3
+	3;1;0;I am.
+	2;1;3
+	4;300
+@205
+	5;0;4
+	5;1;3
+	3;1;0;You're saying that when you die, you want
+	3;1;1;to die beneath a cherry tree?
+	2;1;2
+	4;300
+@206
+	5;0;3
+	5;1;4
+	3;0;0;Not... exactly, no.
+	2;0;1
+	4;300
+@207
+	5;0;4
+	5;1;3
+	3;1;0;Anyway, all I want is to loosen the seal
+	3;1;1;on the Saigyou Ayakashi.
+	2;1;4
+	4;300
+@208
+	5;0;3
+	5;1;4
+	3;0;0;Well, do it, then.
+	3;0;1;Is something good going to happen?
+	2;0;0
+	4;300
+@209
+	5;0;4
+	5;1;3
+	3;1;0;Who knows?
+	2;1;2
+	4;300
+@210
+	5;0;3
+	5;1;4
+	3;0;0;Well then, I ain't giving it up for free.
+	2;0;1
+	4;300
+@211
+	5;0;4
+	5;1;3
+	3;1;0;What about our flower viewing?
+	2;1;5
+	4;300
+@212
+	5;0;4
+	5;1;3
+	3;1;0;It shall be lively and exciting.
+	2;1;4
+	4;300
+@213
+	5;0;3
+	5;1;4
+	3;0;0;I killed some lively and exciting guys on
+	3;0;1;my way up here...
+	2;0;9
+	4;300
+@214
+	5;0;4
+	5;1;3
+	3;1;0;Are the cherry blossoms of the Netherworld
+	3;1;1;not tempting enough for human eyes?
+	2;1;2
+	4;300
+@215
+	5;0;3
+	5;1;4
+	3;0;0;Maybe if this place didn't reek of death.
+	2;0;0
+	4;300
+@216
+	5;0;4
+	5;1;3
+	3;1;0;Are you smelling with your eyes?
+	2;1;3
+	4;300
+@217
+	5;0;3
+	5;1;4
+	3;0;0;Not exactly.
+	2;0;8
+	4;300
+@218
+	5;0;3
+	5;1;4
+	3;0;0;Damn, this is a boring way to start
+	3;0;1;spring.
+	2;0;0
+	4;300
+@219
+	5;0;4
+	5;1;3
+	3;1;0;You are rude.
+	2;1;4
+	4;300
+@220
+	5;0;4
+	5;1;3
+	3;1;0;The spring that you feel here is none
+	3;1;1;other than the spring of your Gensokyo.
+	2;1;2
+	4;300
+@221
+	5;0;3
+	5;1;4
+	3;0;0;That's rude.
+	2;0;8
+	4;300
+@222
+	5;0;3
+	5;1;4
+	3;0;0;What kind of person can smell with their
+	3;0;1;eyes?
+	2;0;0
+	4;300
+@223
+	5;0;4
+	5;1;3
+	3;1;0;You're lagging behind in the conversation.
+	2;1;5
+	4;300
+@224
+	5;0;3
+	5;1;4
+	3;0;0;Sound travels slowly in the Netherworld.
+	2;0;0
+	4;300
+@225
+	5;0;3
+	5;1;4
+	3;0;0;A place with such a slow speed of sound
+	3;0;1;does not deserve a pleasant spring.
+	2;0;1
+	4;300
+@226
+	5;0;4
+	5;1;3
+	3;1;0;What a pity.
+	2;1;3
+	4;300
+@227
+	5;0;4
+	5;1;3
+	3;1;0;I'll turn up the heat and we can continue
+	3;1;1;our chat.
+	2;1;2
+	7;1
+	4;300
+@228
+	5;0;3
+	5;1;4
+	3;0;0;You can do that later...
+	2;0;0
+	4;300
+@229
+	5;0;4
+	5;1;3
+	3;1;0;It'll take just a moment -
+	2;1;4
+	4;300
+@230
+	5;0;3
+	5;1;3
+	3;0;0;I'll take my boring spring, corpse-girl!
+	3;1;1;I'll take your pitiful spring, black witch!
+	2;0;1
+	2;1;2
+	4;400
+	5;0;5
+	5;1;5
+	13;0
+@260
+	0
+	13;1
+@0
+	0
+entry 20
+@0
+	1;0;0
+	2;0;8
+	5;0;1
+@60
+	3;0;0;You know...
+	4;300
+@61
+	3;0;0;Doesn't this world have a saying that "the
+	3;0;1;dead have no mouths"?
+	4;360
+@62
+	5;0;4
+	3;1;0;Oh?
+	4;360
+@63
+	5;0;4
+	3;1;0;Of course we don't have any such saying.
+	4;360
+@64
+	5;0;3
+	3;0;0;!
+	4;360
+	6
+@194
+	1;1;0
+	2;1;2
+	5;1;1
+	5;0;4
+	3;1;0;The Netherworld is always lively and
+	4;300
+	5;0;4
+	5;1;3
+@195
+	3;1;0;gorgeous.
+	2;1;2
+	8;1;0;Ghost girl of the pavilion of 
+	8;1;1;twilight - Yuyuko Saigyouji  
+	4;300
+	5;0;3
+	5;1;4
+@196
+	3;0;0;Isn't it gorgeous because you snatched
+@197
+	3;0;1;spring away from Gensokyo?
+	2;0;0
+	4;300
+	5;0;4
+	5;1;3
+@198
+	3;1;0;Oh my. You dislike spring?
+	2;1;3
+	4;300
+	5;0;3
+	5;1;4
+@199
+	3;0;0;No, I'm mad because I LIKE it.
+	2;0;8
+	4;300
+@200
+	5;0;3
+	5;1;4
+	3;0;0;So why did you steal it?
+	2;0;8
+	4;300
+@201
+	5;0;4
+	5;1;3
+	3;1;0;I took any spring that was spring.
+	2;1;3
+	4;300
+@202
+	5;0;4
+	5;1;3
+	3;1;0;Still, what we have is not enough.
+	2;1;2
+	4;300
+@203
+	5;0;3
+	5;1;4
+	3;0;0;...So, that dead girl back there wants me
+	3;0;1;to fight you.
+	2;0;8
+	4;300
+@204
+	5;0;4
+	5;1;3
+	3;1;0;Soon, the last cherry blossom, the Saigyou
+	3;1;1;Ayakashi, will bloom.
+	2;1;4
+	4;300
+@205
+	5;0;4
+	5;1;3
+	3;1;0;Then all will be answered...
+	2;1;2
+	4;300
+@206
+	5;0;3
+	5;1;4
+	3;0;0;That cherry tree... isn't it withering?
+	2;0;1
+	4;300
+@207
+	5;0;4
+	5;1;3
+	3;1;0;It's on the verge of blooming.
+	2;1;5
+	4;300
+@208
+	5;0;4
+	5;1;3
+	3;1;0;Youmu must have thought that the small
+	3;1;1;trace of spring you carry would be enough.
+	2;1;4
+	4;300
+@209
+	5;0;3
+	5;1;4
+	3;0;0;I don't care.
+	2;0;1
+	4;300
+@210
+	5;0;3
+	5;1;4
+	3;0;0;It took me over a day to get here, it'll
+	3;0;1;take another to get back. Let's end this.
+	2;0;0
+	4;300
+@211
+	5;0;4
+	5;1;3
+	3;1;0;Well, I'll let you return to your home
+	3;1;1;right away.
+	2;1;3
+	4;300
+@212
+	5;0;4
+	5;1;3
+	3;1;0;You're not to come to here yet, anyway.
+	2;1;2
+	4;300
+@213
+	5;0;3
+	5;1;4
+	3;0;0;I didn't come here just to be sent back.
+	2;0;8
+	4;300
+@214
+	5;0;3
+	5;1;4
+	3;0;0;Return Gensokyo's spring.
+	2;0;0
+	4;300
+@215
+	5;0;4
+	5;1;3
+	3;1;0;Oh, could it be that the cherry blossoms
+	3;1;1;in your world have yet to bloom?
+	2;1;4
+	4;300
+@216
+	5;0;3
+	5;1;4
+	3;0;0;No cherry blossoms; not even the
+	3;0;1;pheasant's eyes bloom.
+	2;0;8
+	4;300
+@217
+	5;0;4
+	5;1;3
+	3;1;0;In that case, it'd be troublesome if you
+	3;1;1;developed a heart disease.
+	2;1;5
+	4;300
+@218
+	5;0;3
+	5;1;4
+	3;0;0;It's not.
+	2;0;0
+	4;300
+@219
+	5;0;3
+	5;1;4
+	3;0;0;First of all, my mistress does not have a
+	3;0;1;weak heart.
+	2;0;1
+	4;300
+@220
+	5;0;4
+	5;1;3
+	3;1;0;That's too bad...
+	2;1;3
+	4;300
+@221
+	5;0;3
+	5;1;4
+	3;0;0;You expected it?
+	3;0;1;Well, alright. Enough talk of herbs.
+	2;0;1
+	4;300
+@222
+	5;0;3
+	5;1;4
+	3;0;0;I'm eager to have some warmth.
+	2;0;0
+	4;300
+@223
+	5;0;3
+	5;1;4
+	3;0;0;Return that warmth to us, now.
+	2;0;1
+	4;300
+@224
+	5;0;4
+	5;1;3
+	3;1;0;In a gathering of corpses
+	2;1;3
+	7;1
+	4;300
+@225
+	5;0;4
+	5;1;3
+	3;1;0;there is beauty.
+	2;1;2
+	4;300
+@226
+	5;0;4
+	5;1;3
+	3;1;0;Same goes for the cherry blossoms and
+	3;1;1;spring...
+	2;1;2
+	4;300
+@227
+	5;0;3
+	5;1;4
+	3;0;0;First of all, corpses aren't beautiful.
+	2;0;0
+	4;300
+@228
+	5;0;4
+	5;1;3
+	3;1;0;I mean...
+	2;1;4
+	4;300
+@229
+	5;0;3
+	5;1;3
+	3;0;0;I'll have my flowers, rotting princess!
+	3;1;1;I will loosen the seal, dog of the devil!
+	2;0;1
+	2;1;2
+	4;400
+	5;0;5
+	5;1;5
+	13;0
+@259
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	13;0
+@120
+	9;0
+@180
+	4;1200
+	12
+	14
+@580
+	11
+	10
+@0
+	0
+entry 11
+@0
+	13;0
+@120
+	9;0
+@180
+	4;1200
+	12
+	14
+@580
+	11
+	10
+@0
+	0
+entry 21
+@0
+	13;0
+@120
+	9;0
+@180
+	4;1200
+	12
+	14
+@580
+	11
+	10
+@0
+	0
+entry 2
+@0
+	13;0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;1
+	5;1;1
+@40
+	5;0;4
+	5;1;3
+	3;1;0;Step any further...
+@120
+	3;1;0;And the young mistress will kill you
+	3;1;1;before you know it!
+@210
+	5;0;3
+	5;1;4
+	3;0;0;Or is it you who will be killed?
+@300
+	5;0;5
+	5;1;5
+@330
+	0
+	13;1
+@0
+	0
+entry 12
+@0
+	13;0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;1
+	5;1;1
+@40
+	5;0;4
+	5;1;3
+	3;1;0;Youmu Konpaku, Be Warned
+@120
+	3;1;0;Yuyuko Is Stronger Than Ever
+	3;1;1;The Tree is Closer to Full Bloom
+@210
+	5;0;3
+	5;1;4
+	3;0;0;Theres Now Way I Can Be Stopped
+	3;0;1;I Have to Stop Yuyuko-sama
+@300
+	5;0;5
+	5;1;5
+@330
+	0
+	13;1
+@0
+	0
+entry 22
+@0
+	13;0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;1
+	5;1;1
+@40
+	5;0;4
+	5;1;3
+	3;1;0;Step any further...
+@120
+	3;1;0;And the young mistress will kill you
+	3;1;1;before you know it!
+@210
+	5;0;3
+	5;1;4
+	3;0;0;Shut up, deceased one.
+@300
+	5;0;5
+	5;1;5
+@330
+	0
+	13;1
+@0
+	0

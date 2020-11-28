@@ -1,0 +1,564 @@
+entry 0
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;The Snow is Thick Here
+	4;300
+@61
+	3;0;0;I Can't See Properly
+	4;360
+	6
+@101
+	1;1;0
+	2;1;0
+	5;1;1
+	5;0;4
+	3;1;0;Are you Not Warm Half-Phantom
+	3;1;1;The Heating is On
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;Well We Can't Feel the Heat
+	2;0;9
+	8;1;0;The rainbow-coloured puppeteer 
+	8;1;1;Alice Margatroid        
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;Do You Know me?
+	2;1;0
+	4;300
+	5;0;3
+	5;1;4
+@104
+	3;0;0;We've only just met.
+	2;0;0
+	4;300
+@105
+	5;0;4
+	5;1;3
+	3;1;0;Well thats Obvoius
+	2;1;2
+	4;300
+@106
+	5;0;3
+	5;1;4
+	3;0;0;Am I supposed to Know You
+	2;0;9
+	4;300
+@107
+	5;0;4
+	5;1;3
+	3;1;0;I Would've Hoped Yuyuko Taught you
+	3;1;1;Off my Existence and my Survival
+	2;1;1
+	4;300
+@108
+	5;0;3
+	5;1;4
+	3;0;0;Setting that aside, what did you mean by
+	3;0;1;Survival
+	2;0;0
+	4;300
+@109
+	5;0;4
+	5;1;3
+	3;1;0;I was referring to the end of old
+	3;1;1;Gensokyo
+	2;1;0
+	4;300
+@110
+	5;0;3
+	5;1;4
+	3;0;0;Well, Ok.
+	3;0;1;What do you Know of lady Yuyuko
+	2;0;9
+	4;300
+@111
+	5;0;3
+	5;1;4
+	3;0;0;I'd Like to Know
+	3;0;1;
+	2;0;0
+	4;300
+@112
+	5;0;4
+	5;1;3
+	3;1;0;She's a Freind
+	3;1;1;Thats all
+	2;1;2
+	4;300
+@113
+	5;0;3
+	5;1;4
+	3;0;0;And you have nothing to do with the Snow
+	2;0;0
+	4;300
+@114
+	5;0;4
+	5;1;3
+	3;1;0;Of course not.
+	2;1;0
+	4;300
+@115
+	5;0;3
+	5;1;4
+	3;0;0;Well then, I'll just Pass
+	2;0;1
+	4;300
+@116
+	5;0;4
+	5;1;3
+	3;1;0;Hey! Others Will Try to Stop You
+	2;1;1
+	4;300
+@117
+	5;0;4
+	5;1;3
+	3;1;0;The Tree Will Enter The Full Bloom
+	3;1;1;But Thats all I Know
+	2;1;2
+	7;1
+	4;300
+@118
+	5;0;3
+	5;1;4
+	3;0;0;The Tree.
+	3;0;1;The Saigyouji Ayakashi?
+	2;0;8
+	4;300
+@119
+	5;0;4
+	5;1;3
+	3;1;0;I Don't Know its Name
+	3;1;1;Just That Its Part of the Plan
+	2;1;1
+	4;300
+@120
+	5;0;4
+	5;1;3
+	3;1;0;To Bring it into Full Bloom
+	3;1;1;Just Like Before
+	2;1;0
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@150
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;Yuyuko Knows that it Won't
+	2;0;0
+	4;300
+@61
+	5;0;3
+	5;1;4
+	3;0;0;Why Is She Trying Again
+	2;0;0
+	4;300
+@62
+	5;0;4
+	5;1;3
+	3;1;0;I Don't Know
+	3;1;1;Just Leave I Have to Tidy Now
+	4;300
+@63
+	5;0;3
+	5;1;4
+	3;0;0;Ok..
+	2;0;9
+	4;300
+	13;0
+@123
+	9;0
+	12
+@183
+	4;1200
+	11
+	10
+@0
+	0
+entry 10
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;It seems...
+	4;300
+@61
+	3;0;0;...comfortable here.
+	2;0;2
+	4;360
+	6
+@101
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;Do you find this brutal evening likable?
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;It isn't bad.
+	2;0;0
+	8;1;0;The rainbow-coloured puppeteer 
+	8;1;1;Alice Margatroid        
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;Then surely you are a magician of the
+	3;1;1;untamed fields.
+	2;1;2
+	4;300
+	5;0;3
+	5;1;4
+@104
+	3;0;0;As opposed to a magician from a
+	3;0;1;greenhouse?
+	2;0;0
+	4;300
+@105
+	5;0;4
+	5;1;3
+	3;1;0;As opposed to a magician from a city sect.
+	2;1;0
+	4;300
+@106
+	5;0;3
+	5;1;4
+	3;0;0;Oh? I get it - this is a welcome to the
+	3;0;1;wilderness.
+	2;0;1
+	4;300
+@107
+	5;0;4
+	5;1;3
+	3;1;0;Springtime in this rural place is cold and
+	3;1;1;disagreeable.
+	2;1;1
+	4;300
+@108
+	5;0;3
+	5;1;4
+	3;0;0;I think not; some power is at work to
+	3;0;1;cause such snowstorms in spring.
+	2;0;9
+	4;300
+@109
+	5;0;4
+	5;1;3
+	3;1;0;It is not my doing, you know.
+	2;1;2
+	7;1
+	4;300
+@110
+	5;0;3
+	5;1;4
+	3;0;0;Is that so?
+	2;0;8
+	4;300
+@111
+	5;0;3
+	5;1;4
+	3;0;0;Even so, it seems that you hold some tiny
+	3;0;1;spring of your own.
+	2;0;3
+	4;300
+@112
+	5;0;4
+	5;1;3
+	3;1;0;Well, perhaps I shall partake of your
+	3;1;1;small spring as well?
+	2;1;1
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@142
+	0
+	13;1
+@0
+	0
+entry 11
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;Have winters always been this busy?
+	3;0;1;
+	2;0;2
+	4;300
+@61
+	5;0;3
+	5;1;4
+	3;0;0;Humans usually stay indoors.
+	2;0;2
+	4;300
+@62
+	5;0;4
+	5;1;3
+	3;1;0;You mustn't consider me a normal human.
+	4;300
+@63
+	5;0;3
+	5;1;4
+	3;0;0;Are you a weird human, then?
+	2;0;0
+	4;300
+@64
+	5;0;4
+	5;1;3
+	3;1;0;I'm normal, just not human!!
+	4;300
+	13;0
+@124
+	9;0
+	12
+@184
+	4;1200
+	11
+	10
+@0
+	0
+entry 20
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;I feel like I'm just wasting my time
+	3;0;1;here...
+	4;300
+@61
+	3;0;0;I wonder how the mistress is doing?
+	4;360
+	6
+@101
+	1;1;0
+	2;1;2
+	5;1;1
+	5;0;4
+	3;1;0;Why don't you worry about yourself if you
+	3;1;1;have time to worry about others?
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;Oh yes, I'm worried about myself now.
+	2;0;0
+	8;1;0;The rainbow-coloured puppeteer 
+	8;1;1;Alice Margatroid        
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;So, for what reason do you worry? About
+	3;1;1;yourself.
+	2;1;0
+	4;300
+	5;0;3
+	5;1;4
+@104
+	3;0;0;Because I'm carrying only three changes of
+@105
+	3;0;1;clothes. For myself.
+	2;0;1
+	4;300
+@106
+	5;0;4
+	5;1;3
+	3;1;0;Ah, good reason.
+	2;1;2
+	4;300
+	5;0;3
+	5;1;4
+@107
+	3;0;0;That, and a spare set of knives too.
+	2;0;3
+	4;300
+@108
+	5;0;4
+	5;1;3
+	3;1;0;Ah, I... KNIVES?
+	2;1;1
+	4;300
+@109
+	5;0;3
+	5;1;4
+	3;0;0;You seem to have few worries. Isn't that
+	3;0;1;nice.
+	2;0;1
+	4;300
+@110
+	5;0;4
+	5;1;3
+	3;1;0;How rude!
+	2;1;0
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;I don't have few worries, I have none!
+	2;1;1
+	4;300
+@112
+	5;0;3
+	5;1;4
+	3;0;0;Well, if you want to put it that way.
+	2;0;8
+	4;300
+	5;0;3
+	5;1;4
+@113
+	3;0;0;So, you, who has no worries.
+	2;0;3
+	4;300
+@114
+	5;0;4
+	5;1;3
+	3;1;0;Yes?
+	2;1;1
+	4;300
+	5;0;3
+	5;1;4
+@115
+	3;0;0;Might you know who stole spring or
+@116
+	3;0;1;sprinkled winter all over this land?
+	2;0;3
+	7;1
+	4;300
+@117
+	5;0;4
+	5;1;3
+	3;1;0;I might happen to have some general idea
+	3;1;1;about that.
+	2;1;0
+	4;300
+	5;0;3
+	5;1;4
+@118
+	3;0;0;Where are they?
+	2;0;3
+	4;300
+@119
+	5;0;4
+	5;1;3
+	3;1;0;Such trifling information rarely concerns
+	3;1;1;me.
+	2;1;2
+	4;300
+@120
+	5;0;3
+	5;1;4
+	3;0;0;It is not a trifle.
+	2;0;8
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@150
+	0
+	13;1
+@0
+	0
+entry 21
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;Alright, spill it. Who's behind this whole
+	3;0;1;affair?
+	2;0;1
+	4;300
+@61
+	5;0;4
+	5;1;3
+	3;1;0;Downwind, there's a decadent Shinto
+	3;1;1;shrine.
+	4;300
+@62
+	5;0;4
+	5;1;3
+	3;1;0;There's a shrine maiden there who dreams
+	3;1;1;of spring... I bet she's behind all this.
+	4;300
+@63
+	5;0;3
+	5;1;4
+	3;0;0;Somehow, I doubt that very much.
+	2;0;9
+	4;300
+@64
+	5;0;4
+	5;1;3
+	3;1;0;Well, joking aside.
+	4;300
+@65
+	5;0;4
+	5;1;3
+	3;1;0;Haven't you noticed that the spring
+	3;1;1;follows you as you gather cherry petals?
+	4;300
+@66
+	5;0;3
+	5;1;4
+	3;0;0;...I bet it's upwind then.
+	2;0;0
+	4;300
+@67
+	5;0;4
+	5;1;3
+	3;1;0;I haven't said my point yet...
+	4;300
+	13;0
+@127
+	9;0
+	12
+@187
+	4;1200
+	11
+	10
+@0
+	0

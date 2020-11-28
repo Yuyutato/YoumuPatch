@@ -1,0 +1,48 @@
+ENTRY 2
+Name: data/face/st05/face_05_01.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 256*512+0+0
+Sprite: 1 256*512+256+0
+
+
+ENTRY 2
+Name: data/face/st06/face_06_00.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 256*512+0+0
+Sprite: 1 256*512+256+0
+
+
+ENTRY 2
+Name: data/face/st06/face_06_01.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 256*512+0+0
+Sprite: 1 256*512+256+0
+
+

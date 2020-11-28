@@ -1,0 +1,23 @@
+ENTRY 2
+Name: data/image/loading.png
+Format: 2
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 524288
+THTX-Format: 2
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 384*448+0+0
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 22
+Instruction: 0 0 6 32.0f 16.0f 0.0f
+Instruction: 0 0 20
+Instruction: 0 0 21 1
+Instruction: 0 0 1
+
+

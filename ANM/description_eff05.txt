@@ -1,0 +1,73 @@
+ENTRY 2
+Name: data/eff00/eff05.png
+Format: 3
+Width: 256
+Height: 256
+HasData: 1
+THTX-Size: 131072
+THTX-Format: 3
+THTX-Width: 256
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 256*256+0+0
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 22
+Instruction: 0 0 6 32.0f 16.0f 0.5f
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 60
+Instruction: 0 0 7 1.5f 1.75f
+Instruction: 60 0 0
+Instruction: 60 0 21 1
+Instruction: 60 0 8 255
+Instruction: 60 0 9 16777215
+Instruction: 60 0 22
+Instruction: 10060 0 4 128 60
+Instruction: 10060 0 21 2
+Instruction: 10060 0 8 64
+Instruction: 10060 0 9 16728128
+Instruction: 20060 0 4 128 60
+
+
+ENTRY 2
+Name: data/eff00/eff05b.png
+Format: 5
+Width: 256
+Height: 256
+HasData: 1
+THTX-Size: 131072
+THTX-Format: 5
+THTX-Width: 256
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 256*256+0+0
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 7 2.304886f 2.304886f
+Instruction: 0 0 6 224.0f 240.0f 0.5f
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 60
+Instruction: 60 0 13 0.0f 0.0f -0.007853982f
+Instruction: 60 0 21 1
+Instruction: 60 0 16 0
+Instruction: 60 0 13 0.0f 0.0f -0.007853982f
+Instruction: 60 0 8 255
+Instruction: 60 0 9 16777215
+Instruction: 60 0 36 150 0 2.904886f 2.904886f
+Instruction: 210 0 36 150 0 2.304886f 2.304886f
+Instruction: 360 0 4 164 60
+Instruction: 360 0 21 2
+Instruction: 360 0 16 1
+Instruction: 360 0 8 255
+Instruction: 360 0 9 16736511
+Instruction: 360 1 38 10004.0f 0.06283186f
+Instruction: 360 4 13 0.0f 0.0f 10004.0f
+Instruction: 360 1 42 10004.0f 0.0012822828f
+Instruction: 360 4 13 0.0f 0.0f 10004.0f
+Instruction: 361 0 4 312 360
+
+

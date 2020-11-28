@@ -1,0 +1,121 @@
+ENTRY 2
+Name: data/end/staff01.png
+Format: 1
+Width: 512
+Height: 512
+HasData: 1
+THTX-Size: 1048576
+THTX-Format: 1
+THTX-Width: 512
+THTX-Height: 512
+THTX-Zero: 0
+
+Sprite: 0 512*32+0+0
+Sprite: 1 512*32+0+32
+Sprite: 2 512*32+0+64
+Sprite: 3 512*32+0+96
+Sprite: 4 512*32+0+128
+Sprite: 5 512*32+0+160
+Sprite: 6 512*32+0+192
+Sprite: 7 512*48+0+224
+Sprite: 8 512*32+0+272
+Sprite: 9 512*32+0+304
+Sprite: 10 512*32+0+336
+Sprite: 11 512*32+0+368
+Sprite: 12 512*32+0+400
+Sprite: 13 512*32+0+432
+Sprite: 14 512*32+0+464
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 176.0f 384.0f 0.0f
+Instruction: 0 0 17 176.0f 304.0f 0 220
+Instruction: 320 0 17 176.0f 224.0f 0 220
+Instruction: 420 0 15 0 120
+Instruction: 540 0 1
+
+Script: 1
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 176.0f 384.0f 0.0f
+Instruction: 0 0 17 176.0f 304.0f 0 220
+Instruction: 520 0 17 176.0f 224.0f 0 220
+Instruction: 620 0 15 0 120
+Instruction: 740 0 1
+
+Script: 2
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 176.0f 336.0f 0.0f
+Instruction: 0 0 17 176.0f 336.0f 0 220
+Instruction: 320 0 17 176.0f 256.0f 0 220
+Instruction: 420 0 15 0 120
+Instruction: 540 0 1
+
+Script: 3
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 176.0f 384.0f 0.0f
+Instruction: 0 0 17 176.0f 304.0f 0 220
+Instruction: 420 0 17 176.0f 224.0f 0 220
+Instruction: 520 0 15 0 120
+Instruction: 640 0 1
+
+Script: 4
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 180
+Instruction: 0 0 6 176.0f 384.0f 0.0f
+Instruction: 0 0 17 176.0f 304.0f 0 220
+Instruction: 660 0 17 176.0f 224.0f 0 220
+Instruction: 760 0 15 0 120
+Instruction: 880 0 1
+
+Script: 5
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 180
+Instruction: 0 0 6 176.0f 336.0f 0.0f
+Instruction: 0 0 17 176.0f 336.0f 0 220
+Instruction: 540 0 17 176.0f 256.0f 0 220
+Instruction: 640 0 15 0 120
+Instruction: 760 0 1
+
+Script: 6
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 180
+Instruction: 0 0 12 0.0f 0.0f 1.5707964f
+Instruction: 0 0 6 272.0f 208.0f 0.0f
+Instruction: 0 0 17 272.0f 208.0f 0 220
+Instruction: 420 0 0
+Instruction: 620 0 15 0 120
+Instruction: 740 0 1
+
+Script: 7
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 180
+Instruction: 0 0 7 1.5f 1.5f
+Instruction: 0 0 29 1.0f 1.0f 120
+Instruction: 0 0 6 176.0f 384.0f 0.0f
+Instruction: 0 0 17 176.0f 304.0f 0 220
+Instruction: 280 0 17 176.0f 224.0f 0 220
+Instruction: 380 0 15 0 120
+Instruction: 500 0 1
+
+Script: 8
+Instruction: 0 0 3 0
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 180
+Instruction: 0 0 7 1.0f 1.0f
+Instruction: 0 0 6 400.0f 448.0f 0.0f
+Instruction: 0 0 17 400.0f 448.0f 0 220
+Instruction: 550 0 2
+
+

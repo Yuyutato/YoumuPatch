@@ -1,0 +1,185 @@
+ENTRY 2
+Name: data/front/front.png
+Format: 1
+Width: 256
+Height: 256
+HasData: 1
+THTX-Size: 262144
+THTX-Format: 1
+THTX-Width: 256
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 128*256+128+0
+Sprite: 1 128*80+0+0
+Sprite: 2 64*16+0+80
+Sprite: 3 64*16+0+96
+Sprite: 4 64*16+0+112
+Sprite: 5 64*16+0+128
+Sprite: 6 64*16+0+144
+Sprite: 7 64*16+0+160
+Sprite: 8 64*16+0+176
+Sprite: 9 128*16+0+192
+Sprite: 10 16*16+64+80
+Sprite: 11 16*16+80+80
+Sprite: 12 32*32+0+224
+Sprite: 13 128*16+0+240
+
+Script: 0
+Instruction: 0 0 3 0
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 512.0f 208.0f 0.0f
+Instruction: 0 0 17 480.0f 208.0f 0 120
+Instruction: 120 0 2
+
+Script: 1
+Instruction: 0 0 3 1
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 15 255 120
+Instruction: 0 0 6 384.0f 336.0f 0.0f
+Instruction: 0 0 17 448.0f 336.0f 0 120
+Instruction: 120 0 2
+
+Script: 2
+Instruction: 0 0 3 2
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 416.0f 48.0f 0.0f
+Instruction: 0 0 15 255 16
+Instruction: 0 0 32 60 0 432.0f 48.0f 0
+Instruction: 60 0 2
+
+Script: 3
+Instruction: 0 0 3 3
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 448.0f 64.0f 0.0f
+Instruction: 8 0 15 255 16
+Instruction: 8 0 32 60 0 432.0f 64.0f 0
+Instruction: 68 0 2
+
+Script: 4
+Instruction: 0 0 3 4
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 432.0f 112.0f 0.0f
+Instruction: 16 0 15 255 16
+Instruction: 16 0 32 60 0 432.0f 96.0f 0
+Instruction: 76 0 2
+
+Script: 5
+Instruction: 0 0 3 5
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 464.0f 112.0f 0.0f
+Instruction: 24 0 15 255 16
+Instruction: 24 0 32 60 0 432.0f 112.0f 0
+Instruction: 84 0 2
+
+Script: 6
+Instruction: 0 0 3 6
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 424.0f 144.0f 0.0f
+Instruction: 32 0 15 255 16
+Instruction: 32 0 32 60 0 432.0f 144.0f 0
+Instruction: 92 0 2
+
+Script: 7
+Instruction: 0 0 3 7
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 432.0f 144.0f 0.0f
+Instruction: 40 0 15 255 16
+Instruction: 40 0 32 60 0 432.0f 160.0f 0
+Instruction: 100 0 2
+
+Script: 8
+Instruction: 0 0 3 8
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 448.0f 176.0f 0.0f
+Instruction: 48 0 15 255 16
+Instruction: 48 0 32 60 0 432.0f 176.0f 0
+Instruction: 108 0 2
+
+Script: 9
+Instruction: 0 0 3 10
+Instruction: 0 0 22
+Instruction: 0 0 2
+
+Script: 10
+Instruction: 0 0 3 11
+Instruction: 0 0 22
+Instruction: 0 0 2
+
+Script: 11
+Instruction: 0 0 3 9
+Instruction: 0 0 22
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 0 0 6 80.0f 26.0f 0.0f
+Instruction: 0 0 23
+Instruction: 0 0 21 1
+Instruction: 0 0 15 255 16
+Instruction: 0 0 32 30 0 32.0f 26.0f 0
+Instruction: 30 0 20
+Instruction: 30 0 21 -1
+Instruction: 30 0 15 0 30
+Instruction: 30 0 32 30 0 80.0f 26.0f 0
+Instruction: 60 0 23
+Instruction: 60 0 1
+
+Script: 12
+Instruction: 0 0 3 12
+Instruction: 0 0 22
+Instruction: 200 0 2
+
+Script: 13
+Instruction: 0 0 3 13
+Instruction: 0 0 22
+Instruction: 0 0 2
+
+
+ENTRY 2
+Name: data/front/ename.png
+Format: 1
+Width: 128
+Height: 256
+HasData: 1
+THTX-Size: 131072
+THTX-Format: 1
+THTX-Width: 128
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 128*16+0+0
+Sprite: 1 128*16+0+16
+Sprite: 2 128*16+0+32
+Sprite: 3 128*16+0+48
+Sprite: 4 128*16+0+64
+Sprite: 5 128*16+0+80
+Sprite: 6 128*16+0+96
+Sprite: 7 128*16+0+112
+Sprite: 8 128*16+0+128
+Sprite: 9 128*16+0+144
+Sprite: 10 128*16+0+160
+Sprite: 11 128*16+0+176
+Sprite: 12 128*16+0+192
+Sprite: 13 128*16+0+208
+Sprite: 14 128*16+0+224
+Sprite: 15 128*16+0+240
+
+

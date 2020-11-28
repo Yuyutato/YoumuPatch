@@ -1,0 +1,381 @@
+entry 0
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Oooh Look
+	4;300
+@61
+	3;0;0;The Snow is Clearing
+	4;360
+	6
+@101
+	1;1;0
+	2;1;0
+	5;1;1
+	5;0;4
+	3;1;0;Youmu konpaku?
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;Who Was That?
+	2;0;1
+	8;1;0;The black cat of evil omens 
+	8;1;1;Chen             
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;Lady Yukari Told me to Stop You
+	2;1;1
+	4;300
+	5;0;3
+	5;1;4
+@104
+	3;0;0;Wait What!
+	2;0;0
+	4;300
+@105
+	5;0;4
+	5;1;3
+	3;1;0;Yuyuko told Her and Then She Told Me
+	3;1;1;I Recomend you Leave
+	2;1;0
+	4;300
+@106
+	5;0;3
+	5;1;4
+	3;0;0;Is that so?
+	2;0;3
+	4;300
+@107
+	5;0;3
+	5;1;4
+	3;0;0;What Has Yuyuko Got to Do With This
+	2;0;1
+	4;300
+@108
+	5;0;3
+	5;1;4
+	3;0;0;I Hope it Isn't the Tree Again
+	3;0;1;that would be Silly
+	2;0;3
+	4;300
+@109
+	5;0;4
+	5;1;3
+	3;1;0;Yeah... Its Defiantley Not The Tree
+	2;1;1
+	4;300
+@110
+	5;0;3
+	5;1;4
+	3;0;0;Then let the Battle begin!
+	2;0;2
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;Uh... what?
+	2;1;2
+	4;300
+@112
+	5;0;4
+	5;1;3
+	3;1;0;This is our home.
+	3;1;1;You Can't Enter and Defeat me
+	2;1;0
+	7;1
+	4;300
+@113
+	5;0;3
+	5;1;4
+	3;0;0;I Must Find the Problem
+	3;0;1;Out of my Way Chen!
+	2;0;9
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@143
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;0
+	2;0;2
+	5;0;1
+@60
+	3;0;0;Well Thats Over
+	4;300
+	3;0;0;Better go further now
+	4;900
+	13;0
+@120
+	9;0
+	12
+@180
+	4;1200
+	11
+	10
+@0
+	0
+entry 10
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Ahhh...
+	4;300
+@61
+	3;0;0;Something human-like seems to live here.
+	2;0;1
+	4;360
+@62
+	3;0;0;A cat, a dog, or a fox, maybe?
+	2;0;3
+	4;360
+	6
+@102
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;You must not enter this place...
+	4;300
+	5;0;3
+	5;1;4
+@103
+	3;0;0;"Go farther and fare worse," eh?
+	2;0;3
+	8;1;0;The black cat of evil omens 
+	8;1;1;Chen             
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@104
+	3;1;0;So, what is your purpose here?
+	2;1;0
+	4;300
+	5;0;3
+	5;1;4
+@105
+	3;0;0;No purpose that involves four-legged
+	3;0;1;things.
+	2;0;0
+	4;300
+@106
+	5;0;4
+	5;1;3
+	3;1;0;Wanderer, to have arrived at this place,
+	3;1;1;you must surely have lost your way?
+	2;1;1
+	4;300
+@107
+	5;0;3
+	5;1;4
+	3;0;0;There was never a way.
+	2;0;1
+	4;300
+@108
+	5;0;4
+	5;1;3
+	3;1;0;The recent snowstorm obscured your vision,
+	3;1;1;and the wind is constantly changing.
+	2;1;1
+	4;300
+@109
+	5;0;3
+	5;1;4
+	3;0;0;So the direction of the wind changed, you
+	3;0;1;say? Well, there you go.
+	2;0;9
+	4;300
+@110
+	5;0;4
+	5;1;3
+	3;1;0;And now you do not know the way back.
+	2;1;0
+	7;1
+	4;300
+@111
+	5;0;3
+	5;1;4
+	3;0;0;Well, there you go.
+	2;0;3
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@141
+	0
+	13;1
+@0
+	0
+entry 11
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Well, there you go.
+	4;300
+	3;0;0;That was a pointless encounter with a
+	3;0;1;pointless person.
+	4;900
+	13;0
+@120
+	9;0
+	12
+@180
+	4;1200
+	11
+	10
+@0
+	0
+entry 20
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;It really ought to be spring by now...
+	4;300
+@61
+	3;0;0;Or maybe I'm just going crazy.
+	4;360
+	6
+@101
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;In that case, you'd better ask a human for
+	3;1;1;help!
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;But you're not a human.
+	2;0;0
+	2;1;2
+	8;1;0;The black cat of evil omens 
+	8;1;1;Chen             
+	13;0
+	4;30
+	13;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;Well, I wouldn't have an answer even if
+	3;1;1;you'd asked me.
+	2;1;1
+	4;300
+	5;0;3
+	5;1;4
+@104
+	3;0;0;In days like this,
+	2;0;9
+	4;300
+	5;0;3
+	5;1;4
+@105
+	3;0;0;Cats are supposed to docilely curl up
+	3;0;1;beneath a kotatsu.
+	2;0;3
+	4;300
+@106
+	5;0;4
+	5;1;3
+	3;1;0;You shouldn't believe such superstitions!
+	2;1;0
+	4;300
+	5;0;3
+	5;1;4
+@107
+	3;0;0;(I didn't know it was just a
+	3;0;1;superstition...)
+	2;0;0
+	4;300
+@108
+	5;0;4
+	5;1;3
+	3;1;0;What are stray cats to do, then?
+	2;1;1
+	4;300
+@109
+	5;0;3
+	5;1;4
+	3;0;0;Why not get put to sleep at an animal
+	3;0;1;shelter?
+	2;0;1
+	4;30
+	2;1;2
+	4;300
+	5;0;3
+	5;1;4
+@110
+	3;0;0;The Buddhist Paradise is warm, they say.
+	2;0;3
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;Humans? Posing a threat to us?
+	2;1;0
+	7;1
+	4;300
+@112
+	5;0;4
+	5;1;3
+	3;1;0;Impossible, impossible, impossible!
+	3;1;1;To think that you would oppose us...
+	2;1;1
+	4;300
+@113
+	5;0;3
+	5;1;4
+	3;0;0;I, for one, would like to give it a try.
+	2;0;1
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@143
+	0
+	13;1
+@0
+	0
+entry 21
+@0
+	1;0;0
+	2;0;2
+	5;0;1
+@60
+	3;0;0;Amen~
+	4;300
+	3;0;0;Paradise should definitely be warm, no
+	3;0;1;mistake about it.
+	4;900
+	13;0
+@120
+	9;0
+	12
+@180
+	4;1200
+	11
+	10
+@0
+	0

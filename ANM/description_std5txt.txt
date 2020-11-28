@@ -1,0 +1,67 @@
+ENTRY 2
+Name: data/text/std5txt.png
+Format: 5
+Width: 512
+Height: 256
+HasData: 1
+THTX-Size: 262144
+THTX-Format: 5
+THTX-Width: 512
+THTX-Height: 256
+THTX-Zero: 0
+
+Sprite: 0 256*48+0+0
+Sprite: 1 96*32+0+48
+Sprite: 2 256*48+256+0
+Sprite: 3 384*24+0+80
+Sprite: 4 384*24+0+104
+Sprite: 5 128*128+0+128
+
+Script: 0
+Instruction: 0 0 3 5
+Instruction: 0 0 6 256.0f 288.0f 0.0f
+Instruction: 0 0 30 1
+Instruction: 0 0 8 0
+Instruction: 200 0 15 255 140
+Instruction: 200 0 32 200 1 256.0f 288.0f 0
+Instruction: 540 0 15 0 140
+Instruction: 680 0 1
+
+Script: 1
+Instruction: 0 0 3 0
+Instruction: 0 0 12 0.0f 0.0f 1.5707964f
+Instruction: 0 0 6 175.5f 223.5f 0.0f
+Instruction: 0 0 8 0
+Instruction: 370 0 15 255 160
+Instruction: 570 0 15 0 140
+Instruction: 710 0 1
+
+Script: 2
+Instruction: 0 0 3 1
+Instruction: 0 0 6 128.0f 48.0f 0.0f
+Instruction: 0 0 8 0
+Instruction: 110 0 15 255 60
+Instruction: 110 0 32 120 0 128.0f 160.0f 0
+Instruction: 510 0 15 0 60
+Instruction: 570 0 1
+
+Script: 3
+Instruction: 0 0 3 2
+Instruction: 0 0 6 368.0f 288.0f 0.0f
+Instruction: 0 0 8 0
+Instruction: 140 0 15 255 60
+Instruction: 140 0 32 120 0 256.0f 288.0f 0
+Instruction: 540 0 15 0 60
+Instruction: 600 0 1
+
+Script: 4
+Instruction: 0 0 3 3
+Instruction: 0 0 12 0.0f 0.0f 1.5707964f
+Instruction: 0 0 6 403.5f 623.5f 0.0f
+Instruction: 0 0 8 0
+Instruction: 200 0 15 255 60
+Instruction: 200 0 32 120 4 403.5f 239.5f 0
+Instruction: 400 0 15 0 60
+Instruction: 460 0 1
+
+

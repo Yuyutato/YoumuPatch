@@ -1,0 +1,825 @@
+entry 0
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Well Well Well
+	4;300
+@61
+	3;0;0;I'm Finaly Back Here
+	4;360
+	6
+@101
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;So you came to Defeat Yuyuko?
+	3;1;1;
+	4;300
+	5;0;4
+	5;1;3
+@102
+	3;1;0;Its unwise to come back before the 
+	3;1;1;our mission is done
+	2;1;1
+	8;1;0;The Mind Reading Youkai
+	8;1;1;Satori Komeiji    
+	4;300
+	5;0;3
+	5;1;4
+@103
+	3;0;0;Don't Tell me You're
+@104
+	3;0;1;
+	2;0;9
+	4;300
+	5;0;4
+	5;1;3
+@105
+	3;1;0;Working For Yuyuko?
+	3;1;1;Yes I am
+	2;1;2
+	4;300
+	5;0;3
+	5;1;4
+@106
+	3;0;0;Why are You In
+@107
+	3;0;1;My Spot
+	2;0;0
+	4;300
+@108
+	5;0;4
+	5;1;3
+	3;1;0;I was Hired to Stop People
+	2;1;1
+	4;300
+@109
+	5;0;3
+	5;1;4
+	3;0;0;By Yuyuko
+	2;0;1
+	4;300
+@110
+	5;0;3
+	5;1;4
+	3;0;0;I Didn't Even Think You Could Be
+	3;0;1;Here without Side effects
+	2;0;9
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;I'm Not Like Other Youkai
+	3;1;1;as you Should Know
+	2;1;0
+	4;300
+@112
+	5;0;3
+	5;1;4
+	3;0;0;I Do Know That
+	3;0;1; But Its Still Suspicous
+	2;0;0
+	4;300
+@113
+	5;0;4
+	5;1;3
+	3;1;0;Anyway Yuyuko Hired me To Stop
+	3;1;1;Anyone, Especialy YOU!
+	2;1;2
+	4;300
+@114
+	5;0;4
+	5;1;3
+	3;1;0;She Said You Need Teaching a Lesson
+	3;1;1;about staying out of her stuff
+	2;1;1
+	4;300
+@115
+	5;0;4
+	5;1;3
+	3;1;0;You Need To Be Put in Your Place
+	3;1;1;By Me With Your Own Spells
+	2;1;2
+	4;300
+@116
+	5;0;3
+	5;1;4
+	3;0;0;You Don't Stop Talking
+	2;0;3
+	4;300
+@117
+	5;0;4
+	5;1;3
+	3;1;0;How Rude
+	2;1;0
+	4;300
+@118
+	5;0;3
+	5;1;4
+	3;0;0;But I'm Right!
+	2;0;9
+	4;300
+@119
+	5;0;4
+	5;1;3
+	3;1;0;...At any rate, with just a little more
+	3;1;1;spring,
+	2;0;0
+	2;1;1
+	4;300
+@120
+	5;0;4
+	5;1;3
+	3;1;0;our Saigyou Ayakashi will soon reach full
+	3;1;1;bloom.
+	2;1;1
+	4;300
+@121
+	5;0;4
+	5;1;3
+	3;1;0;The small trace of spring that you've
+	3;1;1;brought here...
+	2;0;9
+	2;1;1
+	4;300
+@122
+	5;0;4
+	5;1;3
+	3;1;0;will give us the last step needed.
+	2;0;8
+	2;1;1
+	4;300
+@123
+	5;0;3
+	5;1;4
+	3;0;0;So Yuyuko's Trying again?
+	2;0;1
+	4;300
+@124
+	5;0;4
+	5;1;3
+	3;1;0;Yes She is
+	2;1;0
+	4;300
+@125
+	5;0;4
+	5;1;3
+	3;1;0;I'm going to teach you a Lessson
+	3;1;1;to stay out of Yuyuko's Business
+	2;1;0
+	4;300
+@126
+	5;0;3
+	5;1;4
+	3;0;0;Atleast I Won't Die Here
+	3;0;1;I'll Just Defeat You Again
+	2;0;9
+	4;300
+@127
+	5;0;4
+	5;1;3
+	3;1;0;Hah, Fat Chance
+	2;1;2
+	4;300
+@128
+	5;0;3
+	5;1;4
+	3;0;0;Oh, so you Think You're Strong?
+	2;0;0
+	4;300
+@129
+	5;0;4
+	5;1;3
+	3;1;0;The Attacks I Read from Your mind
+	3;1;1;
+	2;1;0
+	7;1
+	4;300
+@130
+	5;0;4
+	5;1;3
+	3;1;0;Are your Worst Enemy
+	2;1;0
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@160
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;I Told You, You Fool
+	3;0;1;Youmu Can Deafeat Her Own Spells
+	2;0;0
+	4;300
+@61
+	5;0;3
+	5;1;4
+	3;0;0;I'll Stop Yuyuko myself
+	2;0;0
+	4;300
+@62
+	5;0;4
+	5;1;3
+	3;1;0;Yuyuko Said That She's Stronger
+	3;1;1;than before, Bewarned
+	4;300
+@63
+	5;0;4
+	5;1;3
+	3;1;0;This level of spring is not enough for the
+	3;1;1;Saigyou Ayakashi to bloom fully...
+	4;300
+@64
+	5;0;3
+	5;1;4
+	3;0;0;And I Won't Let it Bloom Fully
+	2;0;1
+	4;300
+	13;0
+@124
+	9;0
+	12
+@184
+	4;1200
+	11
+	10
+@0
+	0
+entry 10
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Ahh, it's getting a lot warmer.
+	4;300
+	6
+@100
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;So this is why all the ghosts here were
+	3;1;1;noisy...
+	4;300
+	5;0;4
+	5;1;3
+@101
+	3;1;0;...maybe because a living human has come
+	3;1;1;here.
+	2;1;1
+	8;1;0;The half-ghost gardener 
+	8;1;1;Youmu Konpaku      
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;If I'm a dead human, won't they make
+	3;0;1;noise?
+	2;0;1
+	4;300
+	5;0;4
+	5;1;3
+@103
+	3;1;0;No, not at all.
+	2;1;2
+	4;300
+	5;0;4
+	5;1;3
+@104
+	3;1;0;For a human to have come all the way to
+	3;1;1;Hakugyokurou,
+	2;1;1
+	4;300
+	5;0;4
+	5;1;3
+@105
+	3;1;0;death is the only possible explanation.
+	2;1;2
+	4;300
+	5;0;3
+	5;1;4
+@106
+	3;0;0;Well, I'm alive.
+	2;0;0
+	4;300
+@107
+	5;0;4
+	5;1;3
+	3;1;0;Yet you passed through that barrier with
+	3;1;1;your own will.
+	2;1;1
+	4;300
+@108
+	5;0;4
+	5;1;3
+	3;1;0;It's no wonder the spirits here are making
+	3;1;1;a great clamor at your foolishness.
+	2;1;1
+	4;300
+@109
+	5;0;3
+	5;1;4
+	3;0;0;Well, it's warm here, anyway. Nice and
+	3;0;1;warm.
+	2;0;1
+	4;300
+@110
+	5;0;4
+	5;1;3
+	3;1;0;That is because we have gathered all the
+	3;1;1;spring essence in Gensokyo.
+	2;1;1
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;The ordinary cherry blossoms are beyond
+	3;1;1;even the most idealized full bloom.
+	2;1;2
+	4;300
+@112
+	5;0;3
+	5;1;4
+	3;0;0;Dead bodies having a nice flower-viewing!
+	2;0;0
+	4;300
+@113
+	5;0;4
+	5;1;3
+	3;1;0;Yet even this immaculate bloom is
+	3;1;1;insufficient for the Saigyou Ayakashi.
+	2;1;1
+	4;300
+@114
+	5;0;3
+	5;1;4
+	3;0;0;Saig-you Ayakashi?
+	2;0;3
+	4;300
+@115
+	5;0;4
+	5;1;3
+	3;1;0;Our pride and joy, our youkai cherry
+	3;1;1;blossom.
+	2;1;2
+	4;300
+@116
+	5;0;3
+	5;1;4
+	3;0;0;I'd like to have a look at that, myself.
+	2;0;9
+	4;300
+@117
+	5;0;4
+	5;1;3
+	3;1;0;With just a little more spring, our
+	3;1;1;Saigyou Ayakashi will reach full bloom.
+	2;1;1
+	4;300
+@118
+	5;0;4
+	5;1;3
+	3;1;0;The tiny trace of spring that you brought
+	3;1;1;here
+	2;1;1
+	4;300
+@119
+	5;0;4
+	5;1;3
+	3;1;0;will bring us yet another step closer to
+	3;1;1;full bloom.
+	2;1;2
+	4;300
+@120
+	5;0;3
+	5;1;4
+	3;0;0;After all that trouble collecting my
+	3;0;1;spring.
+	2;0;1
+	4;300
+@121
+	5;0;4
+	5;1;3
+	3;1;0;We are one step short of full bloom!
+	2;1;0
+	4;300
+@122
+	5;0;3
+	5;1;4
+	3;0;0;What would you say if I were to snatch
+	3;0;1;away all of your spring to make those
+	2;0;1
+	4;300
+@123
+	5;0;3
+	5;1;4
+	3;0;0;cherry blossoms bloom for myself?
+	2;0;1
+	4;300
+@124
+	5;0;4
+	5;1;3
+	3;1;0;I will not hand over my spring!
+	2;1;0
+	4;300
+@125
+	5;0;3
+	5;1;4
+	3;0;0;Me neither.
+	2;0;0
+	4;300
+@126
+	5;0;4
+	5;1;3
+	3;1;0;The things that cannot be cut by my
+	3;1;1;Roukan-Blade, forged by youkai...
+	2;1;0
+	7;1
+	4;300
+@127
+	5;0;4
+	5;1;3
+	3;1;0;Are as good as none!
+	2;1;0
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@157
+	0
+	13;1
+@0
+	0
+entry 11
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;So, show me the way to the Saigyou
+	3;0;1;Ayakashi, will you?
+	2;0;2
+	4;300
+@61
+	5;0;4
+	5;1;3
+	3;1;0;Anyway, the Saigyou Ayakashi will bloom.
+	3;1;1;
+	4;300
+@62
+	5;0;4
+	5;1;3
+	3;1;0;So my job is fulfilled.
+	4;300
+@63
+	5;0;3
+	5;1;4
+	3;0;0;Who said I was going to bloom the Saigyou
+	3;0;1;Ayakashi?
+	2;0;0
+	4;300
+@64
+	5;0;3
+	5;1;4
+	3;0;0;I just want to have a flower-viewing.
+	2;0;2
+	4;300
+	13;0
+@124
+	9;0
+	12
+@184
+	4;1200
+	11
+	10
+@0
+	0
+entry 20
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+@60
+	3;0;0;Come on out.
+	4;300
+	6
+@100
+	1;1;0
+	2;1;1
+	5;1;1
+	5;0;4
+	3;1;0;So this is why all the ghosts here were
+	3;1;1;noisy...
+	4;300
+	5;0;4
+	5;1;3
+@101
+	3;1;0;...it's because a living human has come.
+	2;1;1
+	8;1;0;The half-ghost gardener 
+	8;1;1;Youmu Konpaku      
+	4;300
+	5;0;3
+	5;1;4
+@102
+	3;0;0;Finally, I've reached the source.
+	2;0;1
+	4;300
+	5;0;3
+	5;1;4
+@103
+	3;0;0;It took me a whole day to get here.
+	2;0;1
+	4;300
+	5;0;4
+	5;1;3
+@104
+	3;1;0;In coming here, you have exercised great
+	3;1;1;composure.
+	2;1;1
+	4;300
+	5;0;4
+	5;1;3
+@105
+	3;1;0;This is Hakugyokurou.
+	2;1;1
+	4;300
+	5;0;4
+	5;1;3
+@106
+	3;1;0;The deceased live on in this place.
+	2;1;2
+	4;300
+	5;0;4
+	5;1;3
+@107
+	3;1;0;Acting on the common sense of the live
+@108
+	3;1;1;will land you in a mess.
+	2;1;1
+	4;300
+	5;0;3
+	5;1;4
+@109
+	3;0;0;The dead do not speak.
+	2;0;0
+	4;300
+	5;0;3
+	5;1;4
+@110
+	3;0;0;Now, return the spring you stole.
+	2;0;1
+	4;300
+@111
+	5;0;4
+	5;1;3
+	3;1;0;Hold on a bit.
+	2;1;1
+	4;300
+@112
+	5;0;3
+	5;1;4
+	3;0;0;That's a little bit too long.
+	2;0;1
+	4;300
+@113
+	5;0;4
+	5;1;3
+	3;1;0;Soon, the Saigyou Ayakashi will reach full
+	3;1;1;bloom.
+	2;1;1
+	4;300
+@114
+	5;0;4
+	5;1;3
+	3;1;0;That could never happen with a normal
+	3;1;1;spring.
+	2;1;1
+	4;300
+@115
+	5;0;3
+	5;1;4
+	3;0;0;I said I don't care.
+	2;0;0
+	4;300
+@116
+	5;0;4
+	5;1;3
+	3;1;0;The trace of spring you brought here can
+	3;1;1;bring the Saigyou Ayakashi to full bloom.
+	2;1;2
+	4;300
+@117
+	5;0;3
+	5;1;4
+	3;0;0;Are you even listening to me?
+	2;0;8
+	4;300
+@118
+	5;0;3
+	5;1;4
+	3;0;0;I've traveled through that cold only to
+	3;0;1;find such a selfish idea.
+	2;0;8
+	4;300
+@119
+	5;0;4
+	5;1;3
+	3;1;0;But it's warm here isn't it.
+	2;1;2
+	4;300
+@120
+	5;0;3
+	5;1;4
+	3;0;0;That's enough already.
+	2;0;0
+	4;300
+@121
+	5;0;3
+	5;1;4
+	3;0;0;Dead people have no mouths.
+	2;0;1
+	4;300
+@122
+	5;0;4
+	5;1;3
+	3;1;0;Indeed, dead people have no mouths.
+	2;1;1
+	4;300
+@123
+	5;0;4
+	5;1;3
+	3;1;0;I will consume the warmth of your spring.
+	2;1;2
+	4;300
+@124
+	5;0;3
+	5;1;4
+	3;0;0;I wonder, can my knives even cut ghosts?
+	2;0;0
+	4;300
+@125
+	5;0;4
+	5;1;3
+	3;1;0;The things that cannot be cut by my
+	3;1;1;Roukan-Blade, forged by youkai...
+	2;1;0
+	7;1
+	4;300
+@126
+	5;0;4
+	5;1;3
+	3;1;0;Are close to none!
+	2;1;0
+	4;300
+	5;0;5
+	5;1;5
+	13;0
+@156
+	0
+	13;1
+@0
+	0
+entry 21
+@0
+	1;0;0
+	2;0;0
+	5;0;1
+	1;1;0
+	2;1;3
+	5;1;1
+@60
+	5;0;3
+	5;1;4
+	3;0;0;Cool. Looks like these knives actually
+	3;0;1;work.
+	2;0;1
+	4;300
+@120
+	5;0;3
+	5;1;4
+	3;0;0;Maybe because they're silver?
+	2;0;1
+	4;300
+@121
+	5;0;4
+	5;1;3
+	3;1;0;I'm half non-ghost, you know.
+	4;300
+@122
+	5;0;4
+	5;1;3
+	3;1;0;But the mistress of this shrine is a full
+	3;1;1;ghost.
+	4;300
+@123
+	5;0;4
+	5;1;3
+	3;1;0;Do you expect to be a challenge using
+	3;1;1;those trinkets for weapons?
+	4;300
+@124
+	5;0;3
+	5;1;4
+	3;0;0;Wait, why are we already talking about
+	3;0;1;that battle?
+	2;0;9
+	4;300
+	13;0
+@184
+	9;0
+	12
+@244
+	4;1200
+	11
+	10
+@0
+	0
+entry 2
+@0
+	13;0
+	1;1;0
+	2;1;0
+	5;1;1
+@40
+	3;1;0;Youmu Konpaku
+@120
+	3;1;0;Turn Back Now
+@210
+	3;1;0;Yuyuko Won't Be Kind
+@300
+	3;1;0;If You Try to Stop Her!
+@400
+	5;0;5
+	5;1;5
+@430
+	0
+	13;1
+@0
+	0
+entry 12
+@0
+	13;0
+	1;1;0
+	2;1;0
+	5;1;1
+@40
+	3;1;0;You're a human, I see.
+@120
+	3;1;0;Just what I needed.
+@210
+	3;1;0;I shall drain every drop
+@300
+	3;1;0;of the spring from you!
+@400
+	5;0;5
+	5;1;5
+@430
+	0
+	13;1
+@0
+	0
+entry 22
+@0
+	13;0
+	1;1;0
+	2;1;0
+	5;1;1
+@40
+	3;1;0;You're a human, I see.
+@120
+	3;1;0;Just what I needed.
+@210
+	3;1;0;I shall drain every drop
+@300
+	3;1;0;of the spring from you!
+@400
+	5;0;5
+	5;1;5
+@430
+	0
+	13;1
+@0
+	0
